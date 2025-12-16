@@ -4,7 +4,7 @@
 
 This project is a **free-tier version** that replicates cloud-style loan processing systems (chat, OCR, ML scoring, reporting) using **open-source alternatives** and **local services** that run entirely on your machine.
 
----
+# Demo📷
 
 ## 📋 Table of Contents
 
